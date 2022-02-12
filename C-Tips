@@ -6,3 +6,6 @@
 ![001](https://user-images.githubusercontent.com/47250430/153710780-a6fa0a23-c57a-4741-8ff6-d28b19a41bdd.png)
 //该图片为C语言编辑、编译、链接、执行的流程图
 
+4.基础指令集
+  1>  gcc -o .exe文件名字 1-1.c   //编译生成.exe文件
+  2> ./(.exe)名字   //执行程序
